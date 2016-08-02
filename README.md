@@ -1,4 +1,6 @@
+#screen shot
 
+![alt tag](https://i.imgsafe.org/0cbecb027b.gif)
 
 To build the examples locally, run:
 
