@@ -28,12 +28,10 @@ npm install css3-reactmenu --save
 ```
 
 
-## Usage
+##important
+Make sure you copy  css src/Css3Reactmenu.less and make it available to the component via your app else it will not work
 
-__EXPLAIN USAGE HERE__ AND __Parameters__
-
-
-
+## Usage and Parameters
 
 
 
@@ -47,11 +45,11 @@ var Css3Reactmenu = require('css3-reactmenu');
 
 ### Properties
 
-* __DOCUMENT PROPERTIES HERE__
+
 
 ### Notes
 
-__ADDITIONAL USAGE NOTES__
+
 
 
 ## Development (`src`, `lib` and the build process)
