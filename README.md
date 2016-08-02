@@ -1,7 +1,4 @@
 
-## Demo & Examples
-
-Live demo: [vishnuvardhana.github.io/css3-reactmenu](http://vishnuvardhana.github.io/css3-reactmenu/)
 
 To build the examples locally, run:
 
