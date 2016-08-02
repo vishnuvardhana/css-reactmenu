@@ -1,0 +1,29 @@
+{
+  "name": "css3-reactmenu",
+  "version": "0.0.0",
+  "description": "css3-reactmenu",
+  "main": "dist/css3-reactmenu.min.js",
+  "homepage": "https://github.com/vishnuvardhana/css3-reactmenu",
+  "authors": [
+    ""
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
