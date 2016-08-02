@@ -1,7 +1,7 @@
 {
   "name": "css-reactmenu",
-  "version": "1.0.0",
-  "description": "css3-reactmenu",
+  "version": "3.0.0",
+  "description": "css-reactmenu uses component property to add menu,resonsive menu",
   "main": "lib/Css3Reactmenu.js",
   "author": "vishnuvardhana",
 
@@ -42,6 +42,11 @@
   },
   "keywords": [
     "react",
-    "react-component"
+    "react-component",
+    "responsive-menu",
+    "react-menu",
+    "reusable-menu",
+    "react-menu-component",
+    "css3"
   ]
 }
