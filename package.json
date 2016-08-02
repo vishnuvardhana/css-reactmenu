@@ -1,10 +1,10 @@
 {
   "name": "css-reactmenu",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "css3-reactmenu",
   "main": "lib/Css3Reactmenu.js",
-  "author": "",
-  "homepage": "https://github.com/vishnuvardhana/css3-reactmenu",
+  "author": "vishnuvardhana",
+
   "repository": {
     "type": "git",
     "url": "https://github.com/vishnuvardhana/css-reactmenu"
