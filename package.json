@@ -1,16 +1,16 @@
 {
-  "name": "css3-reactmenu",
-  "version": "1.0.0",
+  "name": "css-reactmenu",
+  "version": "2.0.0",
   "description": "css3-reactmenu",
   "main": "lib/Css3Reactmenu.js",
   "author": "",
   "homepage": "https://github.com/vishnuvardhana/css3-reactmenu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vishnuvardhana/css3-reactmenu.git"
+    "url": "https://github.com/vishnuvardhana/css-reactmenu"
   },
   "bugs": {
-    "url": "https://github.com/vishnuvardhana/css3-reactmenu/issues"
+    "url": "https://github.com/vishnuvardhana/css-reactmenu/issues"
   },
   "dependencies": {
     "classnames": "^2.1.2"
