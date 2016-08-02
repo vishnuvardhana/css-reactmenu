@@ -37,7 +37,7 @@ Make sure you copy  css src/Css3Reactmenu.less and make it available to the comp
 
 ```
 var menuObjs = [{"title":"menuTitle"}];  //<array of objects max 10 to create list of menus>
-var isDemo = true/false (default false); // recommented to be false in your app;
+var isDemo = true/false (default false); // recommended to be false in your app;
 var Css3Reactmenu = require('css3-reactmenu');
 
 <Css3Reactmenu menuObjs={menuObjs} isDemo={isDemo}>Example</Css3Reactmenu>
