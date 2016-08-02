@@ -1,7 +1,3 @@
-# css3-reactmenu
-
-__COMPONENT DESCRIPTION GOES HERE__
-
 
 ## Demo & Examples
 
