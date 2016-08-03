@@ -19,7 +19,7 @@ The easiest way to use css3-reactmenu is to install it from NPM and include it i
 You can also use the standalone build by including `dist/css3-reactmenu.js` in your page. If you use this, make sure you have already included React, and it is available as a global variable.
 
 ```
-npm install css3-reactmenu --save
+npm install css-reactmenu --save
 ```
 
 
